@@ -1,4 +1,4 @@
 zuul: 
   routes: 
     mydept1.serviceId: microservicecloud-dept
-    mydept1.path: /mydept1/**  
+    mydept1.path: /mydept2/**  
